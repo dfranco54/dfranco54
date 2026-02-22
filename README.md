@@ -1,8 +1,8 @@
 ## WELCOME 👋
 
-Hi, i'm Daniel, a <ins>full stack</ins> developer.
+Hi, I'm Daniel, a <ins>full stack</ins> developer.
 
-Some of the programming languages that i know:
+Some of the programming languages that I work with:
 
 <img width="50px" 
     height="50px" 
@@ -31,4 +31,4 @@ Some of the programming languages that i know:
 <img width="50px" 
     height="50px" 
     style="margin: 10px"
-    src="./assets/php.svg">
+    src="./assets/php.svg"> &nbsp;
